@@ -1,0 +1,22 @@
+# Chemical Reaction Kinetics Analyzer 🧪📈
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
+
+A computational toolkit for determining kinetic parameters in chemical reactions from experimental batch reactor data. Developed for analyzing hydrolysis of acetic anhydride, but adaptable to other reactions.
+
+## Key Features 🔑
+
+- 🧬 Three analysis methods implemented:
+  - Autocatalytic approach
+  - Power law with variable reaction orders (α = 0.8-1.2)
+  - Arrhenius equation modeling
+- 📊 Automated R² calculation for model comparison
+- 🔥 Activation energy (Eₐ) and pre-exponential factor (k₀) determination
+- 📈 Built-in visualization for concentration-time profiles and Arrhenius plots
+- 🔍 Optimal reaction order identification
+
+## Installation 📦
+
+```bash
+pip install numpy pandas matplotlib scipy
