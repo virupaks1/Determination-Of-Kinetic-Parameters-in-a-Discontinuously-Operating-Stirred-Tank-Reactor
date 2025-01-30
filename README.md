@@ -1,0 +1,1 @@
+# Determination-Of-Kinetic-Parameters-in-a-Discontinuously-Operating-Stirred-Tank-Reactor
