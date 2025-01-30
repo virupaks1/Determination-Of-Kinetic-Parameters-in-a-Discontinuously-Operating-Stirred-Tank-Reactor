@@ -1,0 +1,7 @@
+time,temperature,conductivity,corrected_conductivity,C_AC
+0,29.6,10.5,0,0.0000
+15,29.8,214,203.5,0.0144
+...time,temperature,conductivity,corrected_conductivity,C_AC
+0,29.6,10.5,0,0.0000
+15,29.8,214,203.5,0.0144
+...
